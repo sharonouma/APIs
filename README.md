@@ -1,4 +1,6 @@
 RESTful APIs README
+
+
 Introduction
 This README file explains the usage of serializers and function-based views in our RESTful APIs. Our RESTful APIs are designed for a book management system and follow the CRUD (Create, Read, Update, Delete) operations.
 
